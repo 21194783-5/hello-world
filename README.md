@@ -1,5 +1,5 @@
 # hello-world
-Projeto criado para atender ao Mapa de ESOFT - Tópicos Especiais em Engenharia de Software II - 54_2024
+Projeto de Emerson Junior Lourenço, criado para atender ao Mapa de ESOFT - Tópicos Especiais em Engenharia de Software II - 54_2024:
 
 - Graduado em Administração, com MBA Executivo em Gestão Empresarial e em Controladoria.
 - Graduando em Engenharia de Software.
